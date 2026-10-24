@@ -1,0 +1,6 @@
+{
+  "name": "Seva Mitra Ped Rakshak Advanced Portal",
+  "description": "Official citizen portal for tree protection, sapling distribution, geo-tagging, complaint redressal, and volunteer registration under Seva Mitra Ped Rakshak Mission.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
